@@ -7,8 +7,6 @@ Uma aplicação web que consome a **PokéAPI** para listar Pokémons de forma di
 
 ## 📂 Estrutura de Pastas
 
-```
-
 pokedex/
 │
 ├── assets/
@@ -20,8 +18,6 @@ pokedex/
 │
 ├── index.html      # Página principal
 ├── README.md       # Documentação do projeto
-
-````
 
 ---
 
