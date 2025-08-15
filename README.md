@@ -1,5 +1,3 @@
-Segue o **README.md** completo em um único bloco pronto para copiar:
-
 ```markdown
 # Pokédex Web
 
