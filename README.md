@@ -1,8 +1,9 @@
-```markdown
+
 # Pokédex Web
 
-Uma aplicação web que consome a **PokéAPI** para listar Pokémons de forma dinâmica, exibindo nome, número, tipos e imagem, com funcionalidade de "Carregar mais".
+Uma aplicação web desenvolvida durante o Bootcamp Front-end Santander 2025. Ela consome a **PokéAPI** para listar Pokémons de forma dinâmica, exibindo nome, número, tipos e imagem, com funcionalidade de "Carregar mais".
 
+```
 ## 📂 Estrutura de Pastas
 
 pokedex/
@@ -17,6 +18,7 @@ pokedex/
 ├── index.html      # Página principal
 ├── README.md       # Documentação do projeto
 
+````
 ---
 
 ## 🚀 Funcionalidades
@@ -36,7 +38,7 @@ pokedex/
 
 ### **pokemon-model.js**
 Define a classe `Pokemon`, que representa um Pokémon no formato utilizado pelo projeto.
-```js
+```
 class Pokemon {
     number;
     name;
