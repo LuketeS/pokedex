@@ -24,7 +24,7 @@
     <section class="content">    
         <h1>Pokedex</h1>
         <ol id="pokemonList"  class="pokemons">
-            <li class="pokemon">
+            <!-- <li class="pokemon">
                 <span class="number">#001</span>
                 <span class="name">Bulbasaur</span>
 
@@ -35,11 +35,18 @@
                     </ol>
                     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" alt="Bulbasaur">
                 </div>
-            </li>                                 
+            </li>                                  -->
         </ol>
+        <div class="pagination">
+            <button id="loadMoreButton" type="button">
+                Mais Pokes
+            </button>
+        </div>
     </section>
     
     <!-- Scripts JS -->
+    <script src="./assets/js/pokemon-model.js"></script>
+    <script src="./assets/js/poke-api.js"></script>
     <script src="./assets/js/main.js"></script>
 </body>
 
