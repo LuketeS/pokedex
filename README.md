@@ -3,6 +3,7 @@
 
 Uma aplicação web desenvolvida durante o Bootcamp Front-end Santander 2025. Ela consome a **PokéAPI** para listar Pokémons de forma dinâmica, exibindo nome, número, tipos e imagem, com funcionalidade de "Carregar mais".
 
+Link no Github Pages: https://luketes.github.io/pokedex/
 ```
 ## 📂 Estrutura de Pastas
 
